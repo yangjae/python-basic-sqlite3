@@ -4,7 +4,7 @@
 
 ## Sample Code
 ### Preparation
-[pygame_textinput](https://github.com/Nearoo/pygame-text-input)을 사전에 반드시 설치하여야 합니다.
++ [pygame_textinput](https://github.com/Nearoo/pygame-text-input)을 사전에 반드시 설치하여야 합니다.
 
 ### Folder Structure
 ```
