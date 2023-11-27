@@ -70,9 +70,9 @@ print(cursor.fetchall())
 conn.close()
 ```
 ### 참고 
-[https://www.sqlite.org](https://www.sqlite.org)
-SQLite 웹 페이지; 설명서는 지원되는 SQL 언어에 대한 문법과 사용 가능한 데이터형을 설명합니다.
-[https://www.w3schools.com/sql/](https://www.w3schools.com/sql/)
-SQL 문법 학습을 위한 자습서, 레퍼런스 및 예제
-[PEP 249 - 데이터베이스 API 명세 2.0](https://peps.python.org/pep-0249/)
-Marc-André Lemburg가 작성한 PEP.
+[https://www.sqlite.org](https://www.sqlite.org)   
+SQLite 웹 페이지; 설명서는 지원되는 SQL 언어에 대한 문법과 사용 가능한 데이터형을 설명합니다.   
+[https://www.w3schools.com/sql/](https://www.w3schools.com/sql/)   
+SQL 문법 학습을 위한 자습서, 레퍼런스 및 예제   
+[PEP 249 - 데이터베이스 API 명세 2.0](https://peps.python.org/pep-0249/)   
+Marc-André Lemburg가 작성한 PEP.   
