@@ -16,8 +16,8 @@
 ├── db                      # Database files
 │   ├── game_scores.db      # sqlite3 database file
 │   └── game_scores.txt     # txt 파일 형태의 데이터 저장소
-├── assets                 # GUI asset files
-│   ├── Background.png      # background image file for game
+├── assets                  # GUI asset files
+│   ├── Background.png      # background image file for sample game
 │   ├── Button Rect.png     # background image file for buttons
 │   └── font.ttf            # font file
 └── README.md
