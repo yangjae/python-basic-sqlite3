@@ -9,7 +9,6 @@
 ### Folder Structure
 ```
 .
-├── main.py                 # main.py
 ├── components              # Components
 │   ├── __init__.py         # __init__.py
 │   └── button.py           # button object
@@ -20,6 +19,7 @@
 │   ├── Background.png      # background image file for sample game
 │   ├── Button Rect.png     # background image file for buttons
 │   └── font.ttf            # font file
+├── main.py                 # main.py
 └── README.md
 ```
 
