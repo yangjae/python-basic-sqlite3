@@ -1,6 +1,6 @@
 # python-basic-sqlite3
 
->간단한 게임의 메뉴구성과 sqlite3(QLite 데이터베이스용 DB-API 2.0 인터페이스) 가이드와 예제
+>간단한 게임의 메뉴구성과 sqlite3(SQLite 데이터베이스용 DB-API 2.0 인터페이스) 가이드와 예제
 
 ## Sample Code
 ### Preparation
