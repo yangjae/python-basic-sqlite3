@@ -7,14 +7,22 @@ sqlite3 — SQLite 데이터베이스용 DB-API 2.0 인터페이스 가이드와
 ## Folder Structure
 ```
 .
-├── src                     # Source files
-│   ├── sqlite3EX           # sqlite3 예제
-│   └── txtFileEX           # text file 생성 및 데이터 저장 예제
+├── main.py                 # main.py
+├── components              # Components
+│   ├── __init__.py         # __init__.py
+│   └── button.py           # button object
 ├── db                      # Database files
-│   ├── example.db          # sqlite3 database file
-│   └── example.txt         # txt 파일 형태의 데이터 저장소
+│   ├── game_scores.db      # sqlite3 database file
+│   └── game_scores.txt     # txt 파일 형태의 데이터 저장소
+├── assetss                 # GUI asset files
+│   ├── Background.png      # background image file for game
+│   ├── Button Rect.png     # background image file for buttons
+│   └── font.ttf            # font file
 └── README.md
 ```
+[pygame_textinput](https://github.com/Nearoo/pygame-text-input) module 설치가 필수적으로 필요합니다.
+
+
 ## Simple Guide
 >Python에서 'sqlite3' module을 사용하는 기본적인 사용방법은 다음과 같습니다.
 *본 예제에서는 로컬파일로 제공되는 형태만 고려하였습니다.*
